@@ -1,4 +1,4 @@
-# Ohio Health Sciences Library Association: Essential Searching Skills for Librarians on Systematic Review Teams
+# OHSLA Essential Searching Skills for Librarians on Systematic Review Teams
 Links for the OHSLA Systematic Review Searching Course.
 
 ## Other Links for Course
