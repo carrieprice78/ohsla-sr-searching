@@ -17,7 +17,9 @@ Links for the OHSLA Systematic Review Searching Course.
 
 - [Systematic Searching Activity](https://github.com/carrieprice78/ohsla-sr-searching/blob/main/activity/systematic-search-activity.md)
 
+### Additional Resources
 
+-  [More Links](https://github.com/carrieprice78/ohsla-sr-searching/blob/main/resources/additional-resources.md)
 ### Readings for Now and Later
 
 - [Systematic Review Reading List](https://github.com/carrieprice78/ohsla-sr-searching/blob/main/readings/suggested.md)
